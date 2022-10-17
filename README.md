@@ -14,7 +14,7 @@
 
 --------------------
 
-## Interesing Papers
+## Interesting Papers
 
 ### 2022
 
