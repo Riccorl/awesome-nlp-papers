@@ -14,14 +14,20 @@
 
 ## Interesting Papers
 
+### 2023
+
 ### 2022
+
+#### EMNLP 2022
+
+#### NAACL 2022
 
 #### ACL 2022
 
-##### Semantics
+#### Semantics
 
 - [Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations](https://aclanthology.org/2022.acl-long.217/) *(Wolfe & Caliskan, ACL 2022)* - @Riccorl
 
-##### Inference
+#### Inference
 
 - [AdapLeR: Speeding up Inference by Adaptive Length Reduction](https://aclanthology.org/2022.acl-long.1/) *(Modarressi et al., ACL 2022)* - @Riccorl
