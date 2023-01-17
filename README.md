@@ -14,20 +14,32 @@
 
 ## Interesting Papers
 
-### 2023
-
 ### 2022
 
 #### EMNLP 2022
 
+#### Topic 1
+
+- [Paper Title](paper.link) *(Cite)* - [@userwhoadded](user.link)
+
 #### NAACL 2022
+
+#### Topic 1
+
+- [Paper Title](paper.link) *(Cite)* - [@userwhoadded](user.link)
 
 #### ACL 2022
 
 #### Semantics
 
-- [Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations](https://aclanthology.org/2022.acl-long.217/) *(Wolfe & Caliskan, ACL 2022)* - @riccorl
+- [Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations](https://aclanthology.org/2022.acl-long.217/) *(Wolfe & Caliskan, ACL 2022)* - [@Riccorl](https://github.com/Riccorl)
 
 #### Inference
 
-- [AdapLeR: Speeding up Inference by Adaptive Length Reduction](https://aclanthology.org/2022.acl-long.1/) *(Modarressi et al., ACL 2022)* - @riccorl
+- [AdapLeR: Speeding up Inference by Adaptive Length Reduction](https://aclanthology.org/2022.acl-long.1/) *(Modarressi et al., ACL 2022)* - [@Riccorl](https://github.com/Riccorl)
+
+## Template
+
+```markdown
+- [Paper Title](paper.link) *(Cite)* - [@userwhoadded](user.link)
+```
